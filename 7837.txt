@@ -1,3 +1,3 @@
 Привет! Это мой проект, и вот анимированный GIF:
 
-![Animation](C:\Users\magnu\Downloads)
+[Animation](C:\Users\magnu\Downloads)
