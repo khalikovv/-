@@ -1,0 +1,3 @@
+Привет! Это мой проект, и вот анимированный GIF:
+
+![Animation](your-animation.gif)
